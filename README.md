@@ -1,0 +1,1 @@
+# nuxtPractice01
